@@ -10,6 +10,8 @@ Step up to the plate and play **Baseball Bros IO**, where the thrill of baseball
 
 ### Getting Started
 
+Visit https://baseball-brosio.github.io/ and start the game.
+
 Choose Your Team: Select your players based on their unique abilities and stats. Consider the strengths and weaknesses of each player to create a balanced team.
 
 Join a Match: Enter the online arena and get ready to face off against other teams. You can play solo or team up with friends for cooperative gameplay.
